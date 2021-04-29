@@ -11,8 +11,6 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, .5);
 }
 
-
-
 .topbar nav {
     float: left;
 }
@@ -43,11 +41,4 @@
 .barniere {
     height: 427px;
     background: no-repeat center center / cover url("img/palge.jpg") ;
-    background: no-repeat center center / cover url("photo/citadelle/Citadelle_Laferrière-4.jpeg") ;
-}
-
-.contactus {
-    width: 200px;
-    margin: 40px;
-    padding: 2px;
 }

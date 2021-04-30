@@ -3,7 +3,6 @@
     top: 0;
     left: 0;
     right: 0;
-    height: ;
     width: 100%;
     position: fixed;
     background-color: white;
@@ -11,8 +10,6 @@
     z-index: 3;
     box-shadow: 0 4px 30px rgba(0, 0, 0, .5);
 }
-
-
 
 .topbar nav {
     float: left;
